@@ -1,0 +1,14 @@
+name = erp sms message
+description = ERP sms message module
+package = "ERP"
+; dependencies[] = smsgateway
+dependencies[] = erp
+dependencies[] = erp_sms
+; core = 6.x
+
+; Information added by drupal.org packaging script on 2011-02-25
+version = "6.x-1.x-dev"
+core = "6.x"
+project = "erp"
+datestamp = "1298619201"
+

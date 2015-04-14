@@ -1,0 +1,15 @@
+name = erp job billable
+description = ERP job billable module
+dependencies[] = erp
+dependencies[] = erp_job
+dependencies[] = erp_store
+dependencies[] = erp_customer
+package = "ERP"
+core = 6.x
+
+; Information added by drupal.org packaging script on 2011-02-25
+version = "6.x-1.x-dev"
+core = "6.x"
+project = "erp"
+datestamp = "1298619201"
+

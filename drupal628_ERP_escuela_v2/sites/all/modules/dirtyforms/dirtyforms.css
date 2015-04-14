@@ -1,0 +1,5 @@
+/* $Id: dirtyforms.css,v 1.1.2.1 2009/03/31 11:22:50 markuspetrux Exp $ */
+
+.dirtyforms-exclude {
+  border: 1px solid red;
+}

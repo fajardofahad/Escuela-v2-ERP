@@ -1,0 +1,17 @@
+name = erp ubercart service
+description = This module provides a services interface for erp to talk to ubercart
+package = "ERP"
+core = 6.x
+dependencies[] = services
+dependencies[] = xmlrpc_server
+dependencies[] = services_keyauth
+dependencies[] = node_service
+dependencies[] = system_service
+dependencies[] = user_service
+
+; Information added by drupal.org packaging script on 2011-02-25
+version = "6.x-1.x-dev"
+core = "6.x"
+project = "erp"
+datestamp = "1298619201"
+

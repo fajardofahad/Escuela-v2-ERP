@@ -1,0 +1,13 @@
+; $Id: dirtyforms.info,v 1.1.2.1 2009/03/29 20:33:07 markuspetrux Exp $
+name = Dirty Forms
+description = Checks forms before users leave the page, warning them if they are about to loose changes and providing an option to remain on the page.
+package = User interface
+dependencies[] = onbeforeunload
+core = 6.x
+
+; Information added by drupal.org packaging script on 2009-07-08
+version = "6.x-1.1"
+core = "6.x"
+project = "dirtyforms"
+datestamp = "1247093429"
+
